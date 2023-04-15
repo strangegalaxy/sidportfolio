@@ -15,7 +15,7 @@ function Home_Right() {
       <Row className="home-right-main">
         <Col xl={12}>
           <br />
-          <Image src={Foad} className="home-right-main-img" alt="Image of Chinmai Siddhartha"/>
+          {/* <Ima ge src={Foad} className="home-right-main-img" alt="Image of Chinmai Siddhartha"/> */}
         </Col>
         <Row className="home-right-footer" >
           <SocialIcons />
