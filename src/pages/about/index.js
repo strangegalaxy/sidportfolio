@@ -12,7 +12,7 @@ import Particles from 'react-particles-js';
 
 class About extends Component {
 
-  // componentDidMount() {
+  // componentDidMount() { 
   //   //--Chinmai Siddharthas Portfolio website Google analytics--
   //   //--Replace with your own key !!
   //   ReactGa.initialize("UA-154721739-1");
